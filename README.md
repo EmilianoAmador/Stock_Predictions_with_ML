@@ -1,5 +1,10 @@
 # Stock_Predictions_with_ML
-Modeling predictions of closing prices for ETFs tracking S&P 500 and Gold using a Random Forest Algorithm and a Recurrent Neural Network
+The first part of this activity is an app that gives users the power to create their own Recurrent Neural Networks models. By simply picking from a drop-down menu, users can choose which SP-500 company they want to analyze and which algorithms they want to analyze it with. The app was designed to translate the hard python code of tensorflow into a visually appealing user interface that anyone can understand. 
+
+![RNN_DASH](RNN_Dashgif.gif)
+
+The second part of this activity focuses on comparing the predictive power of two forecasting models, Recurrent Neural Networks and Random Forrest Algorithms. We then used each model to predict the S&P 500, and the price of Gold. After, we compared the results and made conclusions based on each model's performance.
+
 
 
 ## Notes 
@@ -16,4 +21,4 @@ APIs:
  
  Models used:
   Random Forest VS RNN
-![RNN_DASH](RNN_Dashgif.gif)
+
