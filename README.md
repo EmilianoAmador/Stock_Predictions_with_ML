@@ -1,7 +1,7 @@
 # Stock Predictions with Machine Learning
 The first part of this activity is an app that gives users the power to create their own Recurrent Neural Networks models. By simply picking from a drop-down menu, users can choose which SP-500 company they want to analyze and which algorithms they want to analyze it with. The app was designed to translate the hard python code of tensorflow into a visually appealing user interface that anyone can understand.
 
-**Please click the links for raw code:** 
+**Please click the link for raw code:** 
 [Recurrent Neural Network Dashboard](https://github.com/EmilianoAmador/Stock_Predictions_with_ML/blob/master/RNN_Dash.ipynb "Click Me")
 
 ![RNN_DASH](RNN_Dashgif.gif)
