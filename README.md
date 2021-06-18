@@ -4,7 +4,7 @@ The first part of this activity is an app that gives users the power to create t
 **Please click the link for raw code:** 
 [Recurrent Neural Network Dashboard](https://github.com/EmilianoAmador/Stock_Predictions_with_ML/blob/master/RNN_Dash.ipynb "Click Me")
 
-![RNN_DASH](RNN_Dashgif.gif)
+[![Click Me](RNN_Dashgif.gif)](https://github.com/EmilianoAmador/Stock_Predictions_with_ML/blob/master/RNN_Dashgif.gif)
 
 The second part of this activity focuses on comparing the predictive power of two forecasting models, Recurrent Neural Networks and Random Forest Algorithms. We then used each model to predict the S&P 500, and the price of Gold. After, we compared the results and made conclusions based on each model's performance.
 
