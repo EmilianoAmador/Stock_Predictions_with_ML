@@ -8,12 +8,12 @@ The first part of this activity is an app that gives users the power to create t
 
 The second part of this activity focuses on comparing the predictive power of two forecasting models, Recurrent Neural Networks and Random Forest Algorithms. We then used each model to predict the S&P 500, and the price of Gold. After, we compared the results and made conclusions based on each model's performance.
 
-**Please click the links for raw code:**
 
-This script shows raw code comparing SP500 ETF and Gold prices using Recurrent Neural Networks. We used 20 years of daily price data from AlphaVantage API: 
+
+**This script shows raw code comparing SP500 ETF and Gold prices using Recurrent Neural Networks. We used 20 years of daily price data from AlphaVantage API:** 
 [Recurrent Neural Network Raw Code](https://github.com/EmilianoAmador/Stock_Predictions_with_ML/blob/master/RNN_SPY_GLD.ipynb "Click Me")
 
-This script shows Random Forest Regression of SP500 and Gold Prices. Along with Classification Report of each Machine learning Model:
+**This script shows Random Forest Regression of SP500 and Gold Prices. Along with Classification Report of each Machine learning Model:**
 [Random Forest Classifier Raw Code](https://github.com/EmilianoAmador/Stock_Predictions_with_ML/blob/master/trail%20and%20error.ipynb "Click Me")
 
 ## Notes 
